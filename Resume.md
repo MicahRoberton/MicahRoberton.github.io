@@ -1,5 +1,7 @@
 # Micah Roberton
 
+![photo of me](me.jpg)
+
 MicahARoberton@gmail.com
 
 https://www.linkedin.com/in/micah-roberton-ux-designer/
