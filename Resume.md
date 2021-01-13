@@ -4,9 +4,9 @@ MicahARoberton@gmail.com
 
 https://www.linkedin.com/in/micah-roberton-ux-designer/
 
-# Summary  
+# Summary
 
-I am a University of Washington Semnior of 2021 with a Major in GIS and Minor in Informatics. I am an experienced UX designer with extensive prototyping capabilities that bring products and services to life on the digital screen.
+> I am a University of Washington Semnior of 2021 with a Major in GIS and Minor in Informatics. I am an experienced UX designer with extensive prototyping capabilities that bring products and services to life on the digital screen.
 
 # Work Experience (only last 10 years)
 
